@@ -8,8 +8,11 @@
 		"type": "git",
 		"url": "https://github.com/liang04/embedded-c-lint"
 	},
-
-	"categories": [],
+	"publisher": "LvLiang",
+	"icon": "images/icon.png",
+	"categories": [
+		"Other"
+	],
 	"keywords": [
 		"lint"
 	],
